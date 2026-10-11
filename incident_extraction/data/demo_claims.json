@@ -1,0 +1,20 @@
+[
+  {
+    "case_id": "synthetic_001",
+    "source": "claimant",
+    "synthetic": true,
+    "text": "I was waiting at the lights when a white Nissan hit my car from behind."
+  },
+  {
+    "case_id": "synthetic_002",
+    "source": "police",
+    "synthetic": true,
+    "text": "On 14 March 2025 at approximately 09:20, at Oak Street, a blue Ford driven by Alex struck the left side of a red Toyota driven by Sam. The report explicitly found the Ford driver at fault."
+  },
+  {
+    "case_id": "synthetic_003",
+    "source": "police",
+    "synthetic": true,
+    "text": "At 16:05, two cars were involved in a collision. Their identities, impact direction and fault were not recorded."
+  }
+]

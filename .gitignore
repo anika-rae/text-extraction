@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+incident_extraction/outputs/*.json
+*.zip
+.ipynb_checkpoints/
